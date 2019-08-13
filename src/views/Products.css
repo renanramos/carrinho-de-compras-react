@@ -1,0 +1,80 @@
+#main-app,
+.product-page {
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+.product-item h3{
+    font-size: 15px;
+}
+
+.divider{
+    display: block;
+    background-color: #bEbEbE;
+    width: 100%;
+    height: .06em;
+    margin-bottom: 10px;
+}
+
+.products-list{
+    text-align: center;
+}
+
+ul{    
+    list-style-type: none;
+}
+
+li {    
+    margin: 50px;
+    display: inline-block;
+}
+
+.product-item{
+    display: block;
+    width: 300px;        
+    border: 1px solid #bEbEbE;
+    padding: 0px 30px;
+    border-radius: 5px;
+    box-shadow: 7px 8px #bEbEbE; 
+}
+
+.product-item img {
+    padding: 25px 0px;
+    max-width: 100%;
+    height: 100px;
+}
+
+.product-item a{
+    text-decoration: none;
+    color: white;
+    padding: 7px 23px;
+    background-color: darkcyan;
+    border-radius: 5px;
+}
+
+.product-item a:hover{
+    color: rgba(8, 8, 8, 0.76);
+    background-color: rgba(0, 139, 139, 0.417);
+    box-shadow: 5px 5px #bEbEbE;
+}
+
+.product-price{
+    font-size: 14px;    
+}
+
+.product-price label{    
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+.product-view-item{
+    text-align: center;
+    margin: 0px 25%;
+    border: 1px solid #aeaeae;
+    border-radius: 5px;
+    padding: 10px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.product-view-item h3{
+    font-size: 35px;
+}

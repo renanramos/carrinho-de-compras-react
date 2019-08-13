@@ -1,0 +1,32 @@
+{
+    "items" : [
+        {
+            "id" : 1,
+            "name" : "iPhone XS Max",
+            "image" : "iphone-xs-max.png",
+            "price" : 7999.00,
+            "description" : "Linda tela Super Retina em dois tamanhos"
+        },
+        {
+            "id" : 2,
+            "name" : "Drone Phantom",
+            "image" : "drone-phantom-4.png",
+            "price" : 8600.00,
+            "description" : "Agora o céu é o limite para capturar imagens"
+        },
+        {
+            "id" : 3,
+            "name" : "GoPro Hero 7",
+            "image" : "gopro-hero-7.png",
+            "price" : 8600.00,
+            "description" : "Resistente e totalmente à prova d'agua"
+        },
+        {
+            "id" : 4,
+            "name" : "Kindle 10a geração",
+            "image" : "kindle.png",
+            "price" : 349.00,
+            "description" : "Bateria 100% carregada em menos de 4 horas"
+        }
+    ]
+}
